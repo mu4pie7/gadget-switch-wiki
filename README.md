@@ -1,45 +1,8 @@
-# KORG Gadget for Nintendo Switch Wiki
-使い方とかメモとか
+# GadgetSwitchメモ
 
-https://mu4pie7.github.io/gadget-switch-wiki/
+[KORG Gadget for Nintendo Switch](http://gadget.korg.com/nintendo_switch/jp/)の音色や機能についてのまとめです。
+あくまで個人的なメモを公開する程度の感覚で書くものです。
 
-[twitter@4piE_7](https://twitter.com/4piE_7)
+[Twitter@4piE_7](https://twitter.com/4piE_7)
 
-## Structure
-
-```
-├── README.md // ここ
-├── book.json // gitbook設定ファイル
-├── docs // ビルドして公開するhtmlとかが入る場所
-└── src // 元のMarkDownとかを入れる場所　ここにファイルを足していく
-    ├── README.md // Wikiトップページ
-    ├── hoge // 下層ページ
-    └── SUMMARY.md // 左カラム
-```
-
-## Usage
-何か抜けてそうだけどググればなんとかなるよ（なった）
-
-### gitbookをインストール
-
-```
-npm install gitbook-cli
-gitbook -V
-```
-
-
-### `src` 配下にページを追加
-
-### ローカルで表示確認
-```
-gitbook serve src/ docs/
-```
-
-
-### htmlをビルドしてcommit
-```
-gitbook build src/ docs/
-```
-
-### このリポジトリにpush
-`master` の `docs/` が GitHub Pages として公開される。
+[GitHub](https://github.com/mu4pie7/gadget-switch-wiki/)
