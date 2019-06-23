@@ -54,7 +54,7 @@
 | →    | カバサ    | PC Cabasa                |
 | L, R | ティンバレス | TM TomFlange ?           |
 
-
+<!--
 ## 音色
 
 ### Kick
@@ -96,3 +96,4 @@ PAN・MUTE・A/B・Volume
 | ---- | -------- |
 | foo  | ほげほげ |
 
+-->
