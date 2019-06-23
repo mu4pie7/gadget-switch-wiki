@@ -1,7 +1,0 @@
-{
-  "language": "ja",
-  "plugins": [
-    "intopic-toc",
-    "-search"
-  ]
-}
