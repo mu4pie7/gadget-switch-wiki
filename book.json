@@ -1,3 +1,7 @@
 {
-  "language": "ja"
+  "language": "ja",
+  "plugins": [
+    "intopic-toc",
+    "-search"
+  ]
 }
