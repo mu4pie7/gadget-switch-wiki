@@ -30,6 +30,12 @@ gitbook -V
 
 ### `src` 配下にページを追加
 
+### ローカルで表示確認
+```
+gitbook serve src/ docs/
+```
+
+
 ### htmlをビルドしてcommit
 ```
 gitbook build src/ docs/
