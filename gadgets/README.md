@@ -19,4 +19,4 @@
 | Chiang Mai | 和音   | ベルとかサインとか       |
 | Helsinki   | 和音   |                          |
 | Kingston   | 和音   | ファミコンの波形         |
-| Kamata     | 和音   | 波形メモリ               |
+| [Kamata](./Kamata.md)     | 和音   | 波形メモリ               |
